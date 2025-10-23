@@ -43,6 +43,7 @@ I believe in *learning by doing* — every project is a chance to grow my proble
 - Git & GitHub  
 - mySQL
 - MongoDB
+- TryHackMe
 
 ---
 
@@ -60,7 +61,6 @@ Developed a simple **Clockin-Clockout login system**, comparing **HTTP GET vs PO
 ---
 
 ## 📚 Certifications & Learning
-- ISC2 **Certified in Cybersecurity (CC)** – *In Progress*  
 - Cisco **Networking & Security Modules**  
 - Linux **System Administration Basics**  
 
