@@ -67,7 +67,7 @@ Developed a simple **Clockin-Clockout login system**, comparing **HTTP GET vs PO
 ---
 
 ## 📫 Contact  
-📧 **Email:** shidifen@gmail.com
+📧 **Email:** sdfstefanie@gmail.com
 📱 **Phone:** +65 9271 7136
 🔗 **LinkedIn:** [linkedin.com/in/shi-difen-b84ab5304](https://www.linkedin.com/in/shi-difen-b84ab5304/)  
 
